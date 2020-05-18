@@ -69,8 +69,3 @@ async function call() {
     await tomaz.setLocalDescription(answer);
 
 }
-
-
-
-
-start();
